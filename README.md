@@ -1,0 +1,1 @@
+This repository demonstrates a common C++ error: deleting a pointer to a stack-allocated variable.  The `bug.cpp` file contains the erroneous code, while `bugSolution.cpp` shows the correct approach.  Improper memory management can lead to crashes, data corruption, and other serious issues in C++ programs.
